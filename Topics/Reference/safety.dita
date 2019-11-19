@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="safety">
+    <title>Safety</title>
+    <shortdesc></shortdesc>
+    <refbody> 
+        <section>
+            <title>General safety information</title>
+            <note id="scalding">Scalding can occur from hot steam as well. Be careful when lifting lids from hot food </note>
+            <note id="unattended">Never ever, ever leave cooking foods unattended – not even for a minute. </note>
+            <note id="children">Keep young children out of the kitchen while cooking. </note>
+            <note id="pots">Don’t leave the kitchen with pots and pans cooking on the stove. Make sure to turn off burners as soon as you take the pot off. </note>
+        </section>
+        <table id="safetyTable">
+            <tgroup cols="2">
+                <thead>
+                    <row>
+                        <entry>Safety Precaution</entry>
+                        <entry>Rationale</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Store knives in a wooden block or in a drawer</entry>
+                        <entry>Make sure the knives are out of the reach of children. Follow these knife safety tips to prevent injury</entry>
+                    </row>
+                    <row>
+                        <entry>Never cook in loose clothes and keep long hair tied back</entry>
+                        <entry>You don’t want anything accidentally catching fire (not to mention hair ending up in the food!)</entry>
+                    </row>
+                    <row>
+                        <entry>Never cook while wearing dangling jewelry</entry>
+                        <entry> A bracelet can get tangled around pot handles.</entry>
+                    </row>
+                    <row>
+                        <entry>Turn pot handles away from the front of the stove.</entry>
+                        <entry>Children can’t grab them, and adults can’t bump into them if they’re out of the way.</entry>
+                    </row>
+                    <row>
+                        <entry>
+                            Don’t let temperature-sensitive foods sit out in the kitchen</entry>
+                        <entry>Raw meat, fish, and certain dairy products can spoil quickly, so refrigerate or freeze them right away</entry>
+                    </row>
+                    <row>
+                        <entry>Wipe up spills immediately</entry>
+                        <entry>Keep the floor dry so that no one slips and falls</entry>
+                    </row>
+                    <row>
+                        <entry>Separate raw meat and poultry from other items whenever you use or store them</entry>
+                        <entry>This precaution avoids cross-contamination of harmful bacteria from one food to another.</entry>
+                    </row>
+                    <row>
+                        <entry>Wash your hands before handling food and after handling meat or poultry</entry>
+                        <entry>Hands can be a virtual freight train of bacteria</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

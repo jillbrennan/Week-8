@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="cuisine_names">
+    <title>Cuisine Names</title>
+    <glossentry id="G">
+        <glossterm>Gazpacho</glossterm>
+        <glossdef>A cold Spanish soup made from tomatoes, peppers, and other salad vegetables.</glossdef>
+    </glossentry>
+    <glossentry id="M">
+        <glossterm>Moussaka</glossterm>
+        <glossdef>Moussaka is a layered oven casserole dish made with vegetables and meat.</glossdef>
+    </glossentry>
+    <glossentry id="P">
+        <glossterm>Paella</glossterm>
+        <glossdef>ASpanish dish of rice, saffron, chicken, seafood, etc., cooked and served in a large shallow pan</glossdef>
+    </glossentry>
+    <glossentry id="T">
+        <glossterm>Tzatziki</glossterm>
+        <glossdef>A classic meze consisting of Greek yoghurt, cucumber, garlic and mint.</glossdef>
+    </glossentry>
+</glossgroup>

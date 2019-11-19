@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">Mediterranean Cuisine</span></title>
+   <topic href="Topics/Concepts/what_is_a_mediterranean_cuisine_style.html" data-id="what_is_a_mediterranean_cuisine_style">
+      <title>What is a Mediterranean Cuisine Style?</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="Topics/Reference/countries_with_mediterranean_cuisine.html" data-id="countries_with_mediterranean_cuisine">
+         <title>Countries with Mediterranean Cuisine</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A sample of countries that have a Mediterranean style cuisine</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="Topics/Concepts/greece.html" collection-type="family" data-id="greece">
+         <title>Greek Cuisine</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+         <topic href="Topics/Tasks/Moussaka.html" data-id="moussaka">
+            <title>Making Moussaka</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+            </shortdesc>
+            <topicmeta></topicmeta>
+         </topic>
+         <topic href="Topics/Tasks/Tzatziki.html" data-id="tzatziki">
+            <title>Making Tzatziki</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"> This staple in Turkish and Greek cuisine is used to accompany mezze and warm bread,
+                  served as a more liquid sauce alongside grilled meats and salads. 
+               </p>
+            </shortdesc>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+      <topic href="Topics/Concepts/spain.html" collection-type="sequence" data-id="spain">
+         <title>Spanish Cuisine</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+         <topic href="Topics/Tasks/Gazpacho.html" data-id="spain_gazpacho">
+            <title>Making Gazpacho</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">         A simple recipe for making delicious Spanish Gazpacho</p>
+            </shortdesc>
+            <topicmeta></topicmeta>
+         </topic>
+         <topic href="Topics/Tasks/Paella.html" data-id="spain_paella">
+            <title>Making Paella</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">An easy recipe for making Spanish Paella             </p>
+            </shortdesc>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+      <topic href="javascript:void(0)">
+         <title>Glossary</title>
+         <topic href="Topics/Glossary/cuisine_names.html" data-id="cuisine_names">
+            <title>Cuisine Names</title>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+   </topic>
+</toc>

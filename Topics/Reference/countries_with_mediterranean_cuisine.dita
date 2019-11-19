@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="countries_with_mediterranean_cuisine">
+    <title>Countries with Mediterranean Cuisine</title>
+    <shortdesc>A sample of countries that have a Mediterranean style cuisine</shortdesc>
+    <refbody>
+        <table>
+            <tgroup cols="2">
+                <thead>
+                    <row rowsep="1">
+                        <entry colsep="1">Country Name</entry>
+                        <entry>Sample recipe</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry colsep="1">Greece</entry>
+                        <entry>Moussaka</entry>
+                    </row>
+                    <row>
+                        <entry colsep="1">Italy</entry>
+                        <entry>Gnocchi</entry>
+                    </row>
+                    <row>
+                        <entry colsep="1">Spain</entry>
+                        <entry>Paella</entry>
+                    </row>
+                    <row>
+                        <entry colsep="1">Jordan</entry>
+                        <entry>Hummus</entry>
+                    </row>                    
+                    <row>
+                        <entry colsep="1">France</entry>
+                        <entry>Ratatouille</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

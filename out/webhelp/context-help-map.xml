@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="what_is_a_mediterranean_cuisine_style"
+               path="Topics/Concepts/what_is_a_mediterranean_cuisine_style.html"/>
+   <appContext helpID="countries_with_mediterranean_cuisine"
+               path="Topics/Reference/countries_with_mediterranean_cuisine.html"/>
+   <appContext helpID="greece" path="Topics/Concepts/greece.html"/>
+   <appContext helpID="moussaka" path="Topics/Tasks/Moussaka.html"/>
+   <appContext helpID="tzatziki" path="Topics/Tasks/Tzatziki.html"/>
+   <appContext helpID="spain" path="Topics/Concepts/spain.html"/>
+   <appContext helpID="spain_gazpacho" path="Topics/Tasks/Gazpacho.html"/>
+   <appContext helpID="spain_paella" path="Topics/Tasks/Paella.html"/>
+   <appContext helpID="cuisine_names" path="Topics/Glossary/cuisine_names.html"/>
+</map>

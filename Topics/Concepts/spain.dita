@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="spain">
+    <title>Spanish Cuisine</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Spain's varied Mediterranean cuisines includes the cooking of Andalusia, Murcia, Catalonia, Valencia, and the Balearic islands. Paella is a characteristic Spanish dish, originally from Valencia, radiating early on to Catalonia and Murcia along Spain's Mediterranean coast. It comes in many versions, and may contain a mixture of chicken, pork, rabbit, or shellfish, sautéed in olive oil in a large shallow pan, with vegetables, and typically round-grain rice (often of the local albufera, arròs bomba, sénia varieties or similar) cooked to absorb the water and coloured with saffron. The dish may be varied with artichoke hearts, peas, sweet peppers, lima beans, string beans, or sausages.
+            <image conref="../Tasks/Gazpacho.dita#spain_gazpacho/gazpacho"></image>
+        </p>
+         <fig>
+            <image href="../../Resources/Images/Spanish_Cuisine.jpg"> </image>
+             <image conref="../Tasks/Paella.dita#spain_paella/paella"></image>
+        </fig>
+    </conbody>
+</concept>

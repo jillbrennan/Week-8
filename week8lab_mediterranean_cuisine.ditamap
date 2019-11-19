@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Mediterranean Cuisine</title>
+
+    <topicref href="secondmap.ditamap" format="ditamap"></topicref>
+    <topicref href="Topics/Concepts/what_is_a_mediterranean_cuisine_style.dita">
+
+        <topicref href="Topics/Reference/countries_with_mediterranean_cuisine.dita"/> 
+
+            <topicref href="Topics/Concepts/greece.dita" collection-type="family">
+                <topicref href="Topics/Tasks/Moussaka.dita"/>
+                <topicref href="Topics/Tasks/Tzatziki.dita"/>
+            </topicref>   
+        <topicref href="Topics/Concepts/spain.dita" collection-type="sequence">
+            <topicref href="Topics/Tasks/Gazpacho.dita"/>
+            <topicref href="Topics/Tasks/Paella.dita"/>
+        </topicref>
+        <topichead navtitle="Glossary">
+            <topicref href="Topics/Glossary/cuisine_names.dita"></topicref>
+        </topichead>
+    </topicref>
+</map>

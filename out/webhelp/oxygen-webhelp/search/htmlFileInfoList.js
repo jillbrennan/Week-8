@@ -1,0 +1,11 @@
+fil = new Array();
+fil["0"]= "Topics/Concepts/greece.html@@@Greek Cuisine@@@Overview Greek cuisine is a Mediterranean cuisine. Contemporary Greek cookery makes wide use of vegetables, olive oil, grains, fish, wine (white and red), and meat (including lamb, poultry, veal...";
+fil["1"]= "Topics/Concepts/spain.html@@@Spanish Cuisine@@@Spain&apos;s varied Mediterranean cuisines includes the cooking of Andalusia, Murcia, Catalonia, Valencia, and the Balearic islands. Paella is a characteristic Spanish dish, originally from Valencia...";
+fil["2"]= "Topics/Concepts/what_is_a_mediterranean_cuisine_style.html@@@What is a Mediterranean Cuisine Style?@@@Mediterranean cuisine is the foods and methods of preparation by people of the Mediterranean Basin region. The idea of a Mediterranean cuisine originates with the cookery writer Elizabeth David&apos;s...";
+fil["3"]= "Topics/Glossary/cuisine_names.html@@@Cuisine Names@@@...";
+fil["4"]= "Topics/Reference/countries_with_mediterranean_cuisine.html@@@Countries with Mediterranean Cuisine@@@A sample of countries that have a Mediterranean style cuisine...";
+fil["5"]= "Topics/Tasks/Gazpacho.html@@@Making Gazpacho@@@A simple recipe for making delicious Spanish Gazpacho...";
+fil["6"]= "Topics/Tasks/Moussaka.html@@@Making Moussaka@@@Ingredients 750g/1lb 10\u00BDoz lamb mince 1 onion, finely chopped 2 garlic cloves, crushed 1 tsp dried oregano 1\u00BD tsp dried mint 1 bay leaf 1 cinnamon stick 1 tbsp plain flour 200ml/7fl oz red wine 400g...";
+fil["7"]= "Topics/Tasks/Paella.html@@@Making Paella@@@An easy recipe for making Spanish Paella...";
+fil["8"]= "Topics/Tasks/Tzatziki.html@@@Making Tzatziki@@@This staple in Turkish and Greek cuisine is used to accompany mezze and warm bread, served as a more liquid sauce alongside grilled meats and salads...";
+var doStem = false;searchLoaded = true;
